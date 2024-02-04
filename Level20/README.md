@@ -17,7 +17,7 @@ The bedrock at the bottom of the buildplate represents its underground part.<br>
 
 ## Download
 
-<a href="https://github.com/katorly/Minecraft-Earth-Buildplate/Level20/raw/master/Level20.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://cdn.jsdelivr.net/gh/katorly/Minecraft-Earth-Buildplate/Level20/Level20.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/jsdelivr-download.png"></a><a href="https://github.katorly.workers.dev/katorly/Minecraft-Earth-Buildplate/Level20/raw/master/Level20.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br>
+<a href="https://github.com/katorly/Minecraft-Earth-Buildplate/raw/master/Level20/Level20.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/github-download.png"></a><a href="https://cdn.jsdelivr.net/gh/katorly/Minecraft-Earth-Buildplate/Level20/Level20.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/jsdelivr-download.png"></a><a href="https://github.katorly.workers.dev/katorly/Minecraft-Earth-Buildplate/raw/master/Level20/Level20.schem" target="_blank"><img align="center" width="20%" src="https://cdn.jsdelivr.net/gh/katorly/katorly/buttons/cloudflare-download.png"></a><br>
 Unable to download? Try downloading the entire repository.<br>
 
 ## Notice
